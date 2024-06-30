@@ -12,7 +12,7 @@ ______________________________________________________________________________
 # Overview:
 ------------
 
-# You are creating a personal portfolio website using Java Spring Boot, with HTML and CSS in JSP files, and a SQL database. The project will utilize the main Spring MVC module, which includes controllers, services, repositories, and entity classes for database interactions.
+# creating a personal portfolio website using Java Spring Boot, with HTML and CSS in JSP files, and a SQL database. The project will utilize the main Spring MVC module, which includes controllers, services, repositories, and entity classes for database interactions.
 
 # Architecture Components:
 
