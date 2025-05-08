@@ -4,6 +4,7 @@
 <head>
     <title>Portfolio</title>
     <style>
+
         body {
             font-family: Arial, sans-serif;
             background-color: #e181e1;
